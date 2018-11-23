@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BuildingTrial3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help_information">This fragment here can contain all of our help information, specifically how to operate the app put into nice simple terms. This help menu will be accessable from anywhere any probably could contain some helpful pictures and images to look all nice and professional.</string>
+</resources>
